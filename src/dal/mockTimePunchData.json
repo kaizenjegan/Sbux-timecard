@@ -1,0 +1,2802 @@
+[
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 05:00:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 09:02:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 09:32:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 13:29:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-MAY-13 05:00:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-MAY-13 08:41:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-MAY-13 09:11:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-MAY-13 13:28:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 07:00:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 10:57:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 11:27:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 15:35:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 08:00:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 12:06:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 12:36:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 16:27:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 05:00:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 08:48:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 09:18:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 13:30:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 05:00:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 08:44:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 09:14:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 13:27:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 07:30:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 11:34:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 12:04:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 15:57:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 05:00:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 09:08:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 09:38:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 13:29:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 05:00:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 08:46:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 09:16:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 13:29:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-JUN-13 13:30:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-JUN-13 15:50:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-JUN-13 16:20:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-JUN-13 21:00:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 07:30:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 11:32:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 12:02:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 15:31:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 07:30:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 11:36:30",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 12:06:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 15:56:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 05:01:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 08:59:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 09:29:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 13:27:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 07:30:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 11:28:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 11:58:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 15:59:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 07:30:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 11:31:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 12:01:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 16:00:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 07:30:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 11:25:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 11:55:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 15:04:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-MAY-13 13:30:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-MAY-13 18:04:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 05:00:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 08:56:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 09:26:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 12:58:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 07:30:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 11:30:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 12:00:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 15:59:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 07:31:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 11:31:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 12:01:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 15:58:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 05:00:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 09:00:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 09:30:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "5551234",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 13:31:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 14:01:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 15:50:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 16:20:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 21:45:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 14:00:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 15:42:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 16:12:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 22:00:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 13:30:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 15:51:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 16:21:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 22:00:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 14:30:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 16:08:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 16:40:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 22:03:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-JUN-13 14:00:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-JUN-13 15:53:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-JUN-13 16:23:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-JUN-13 21:56:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 14:00:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 15:51:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 16:21:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 22:01:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 14:00:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 15:47:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 16:19:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 21:59:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 13:30:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 15:35:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 16:05:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 22:17:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 14:00:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 15:57:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 16:28:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 21:59:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-MAY-13 14:00:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-MAY-13 16:00:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-MAY-13 16:30:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-MAY-13 22:02:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 14:00:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 16:10:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 16:40:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 21:59:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-JUN-13 14:00:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-JUN-13 16:00:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-JUN-13 16:31:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-JUN-13 21:50:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 14:00:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 15:41:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 16:11:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-14T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "14-MAY-13 22:00:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 14:30:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 16:16:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 16:47:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 22:00:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 13:30:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 15:30:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 16:00:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-JUN-13 21:59:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 14:30:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 16:13:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 16:43:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 22:06:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 14:30:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 16:24:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 16:54:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 21:56:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 14:00:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 16:02:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 16:33:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 22:01:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 14:00:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 16:01:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 16:31:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 22:01:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 13:30:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 15:27:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 15:58:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 22:00:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 14:00:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 16:05:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 16:35:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 22:04:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 13:31:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 15:15:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 15:45:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 22:01:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-JUN-13 10:00:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-JUN-13 12:06:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-JUN-13 12:36:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-JUN-13 18:30:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 14:00:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 15:44:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 16:14:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 21:55:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 13:30:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 15:18:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 15:50:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "1234567",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 21:55:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 08:00:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 12:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 13:00:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-01T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "01-MAY-13 16:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 08:02:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 12:09:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 12:39:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-02T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "02-JUN-13 16:39:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-JUN-13 08:01:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-JUN-13 11:52:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-JUN-13 12:24:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-JUN-13 16:31:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 09:00:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 13:06:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 13:36:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-03T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "03-MAY-13 17:30:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 08:31:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 12:37:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 13:08:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-04T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "04-JUN-13 17:01:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 08:00:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 12:02:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 12:33:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-05T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "05-MAY-13 16:18:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 08:00:22",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 12:09:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 12:41:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-JUN-13 16:31:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-MAY-13 08:01:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-MAY-13 12:05:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-MAY-13 12:35:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-06T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "06-MAY-13 15:00:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 08:00:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 12:09:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 12:42:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 16:33:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 17:00:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-07T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "07-MAY-13 18:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 08:00:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 11:57:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 12:30:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-JUN-13 16:30:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 08:00:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 12:09:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 12:42:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-09T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "09-MAY-13 16:42:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-JUN-13 08:00:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-JUN-13 11:48:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-JUN-13 12:19:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-JUN-13 16:29:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-MAY-13 08:31:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-MAY-13 12:40:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-MAY-13 13:10:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-10T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "10-MAY-13 16:59:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 08:01:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 11:59:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 12:31:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-11T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "11-JUN-13 16:31:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-MAY-13 05:30:23",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-MAY-13 09:58:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-MAY-13 10:28:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-12T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "12-MAY-13 13:34:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 08:00:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 11:02:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 11:32:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 11:40:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 12:00:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-13T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "13-JUN-13 14:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-15T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "15-JUN-13 08:01:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-15T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "15-JUN-13 11:59:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-15T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "15-JUN-13 12:33:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-15T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "15-JUN-13 16:34:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-JUN-13 08:00:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-JUN-13 11:47:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-JUN-13 12:18:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-JUN-13 16:32:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 11:00:16",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 13:03:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 13:34:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-16T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "16-MAY-13 19:32:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-JUN-13 07:00:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-JUN-13 09:07:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-JUN-13 12:03:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-JUN-13 12:33:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-JUN-13 13:00:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 13:30:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 15:49:14",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 16:19:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-17T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "17-MAY-13 21:59:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-MAY-13 09:00:27",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-MAY-13 13:07:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-MAY-13 13:38:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-18T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "18-MAY-13 17:32:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 08:01:02",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 11:49:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 12:21:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-19T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "19-MAY-13 16:27:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-JUN-13 13:00:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-JUN-13 15:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-MAY-13 08:00:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-MAY-13 12:08:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-MAY-13 12:39:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-20T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "20-MAY-13 16:30:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 08:30:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 13:09:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 13:41:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-JUN-13 17:02:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 20:00:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-21T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "21-MAY-13 22:27:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-JUN-13 09:30:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-JUN-13 13:33:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-JUN-13 14:05:11",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-22T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "22-JUN-13 18:00:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 08:01:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 11:47:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 12:17:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-JUN-13 16:30:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 08:01:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 11:48:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 12:19:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-23T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "23-MAY-13 16:31:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-JUN-13 10:30:09",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-JUN-13 12:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-JUN-13 14:24:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-JUN-13 15:01:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-JUN-13 18:34:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 09:00:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 13:02:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 13:34:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-24T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "24-MAY-13 17:34:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-25T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "25-JUN-13 08:00:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-25T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "25-JUN-13 12:08:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-25T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "25-JUN-13 12:38:10",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-25T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "25-JUN-13 16:28:29",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-JUN-13 08:00:19",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-JUN-13 11:49:04",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-JUN-13 12:23:08",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-JUN-13 16:36:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 08:00:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 11:44:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 12:16:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-26T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "26-MAY-13 16:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 07:45:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 12:17:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 12:51:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-JUN-13 16:35:15",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-MAY-13 08:00:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-MAY-13 12:01:03",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-MAY-13 12:32:01",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-27T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "27-MAY-13 16:36:28",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 08:00:30",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 12:18:26",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 12:48:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-28T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "28-MAY-13 16:38:12",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 08:01:21",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 11:47:18",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 12:19:17",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-06-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-JUN-13 16:40:13",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 08:00:25",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 12:06:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 12:37:06",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-30T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "30-MAY-13 16:29:09",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 08:00:07",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 11:45:24",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "MEAL"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 12:15:20",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "101"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 13:13:05",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 14:15:00",
+		"SHIFT_ROLE_NM": "Non Coverage",
+		"PUNCH_RSN": "202"
+	},
+	{
+		"STORE_ID": "123",
+		"EMP_ID": "7654321",
+		"BUS_DT": "2013-05-31T07:00:00.000Z",
+		"TIME_PUNCH_DTM": "31-MAY-13 15:30:00",
+		"SHIFT_ROLE_NM": "Barista",
+		"PUNCH_RSN": "OUT"
+	}
+]
