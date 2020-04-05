@@ -3,7 +3,7 @@ import * as express from 'express'
 const app = express()
 const port = 3000
 // const timecardsRouter = require('./routes/timecards')
-import router from './routes/timecards';
+import router from './routes/timeCards';
 
 app.get('/', (req: express.Request, res: express.Response) => {
 	res.json({
