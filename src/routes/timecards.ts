@@ -36,6 +36,7 @@ router.get('/', async (req, res, next) => {
 
   const timecards = await timeCardService.fetchByEmployeedId(employeeId, startDate, endDate);
 
+  console.log(timecards)
   res.status(200).send(timecards);
   
 });

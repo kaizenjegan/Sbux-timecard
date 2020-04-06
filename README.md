@@ -155,3 +155,20 @@ Please be sure to delete the `node_modules` directory before sending this projec
 Please also construct tests for your solution. We have provided a sample test that can be run with `yarn test` that uses `mocha` and `chai`, but if you would rather use a different testing framework, please feel free to do so.
 
 If you are having trouble creating a complete solution, sending over a partial solution is OK! We would love to see any amount of this API completed with tests established to cover the logic you were able to complete.
+
+
+For each day, we should also provide a `dailyTotals` of the time worked grouped by `SHIFT_ROLE_NM` and `PUNCH_RSN`
+
+what is 101?
+how do I group them and totl them?
+
+```json
+[{"STORE_ID": "123","EMP_ID": "1234567",
+"BUS_DT": "2013-05-05T07:00:00.000Z",
+"TIME_PUNCH_DTM": "05-MAY-13 14:30:15",
+"SHIFT_ROLE_NM": "Barista","PUNCH_RSN": "101"},
+{"STORE_ID": "123","EMP_ID": "1234567",
+"BUS_DT": "2013-05-05T07:00:00.000Z","TIME_PUNCH_DTM": "05-MAY-13 16:08:16","SHIFT_ROLE_NM": "Barista","PUNCH_RSN": "MEAL"},
+{"STORE_ID": "123","EMP_ID": "1234567","BUS_DT": "2013-05-05T07:00:00.000Z","TIME_PUNCH_DTM": "05-MAY-13 16:40:21","SHIFT_ROLE_NM": "Barista","PUNCH_RSN": "101"},
+{"STORE_ID": "123","EMP_ID": "1234567","BUS_DT": "2013-05-05T07:00:00.000Z","TIME_PUNCH_DTM": "05-MAY-13 22:03:14","SHIFT_ROLE_NM": "Barista","PUNCH_RSN": "OUT"}]
+```
