@@ -21,15 +21,17 @@ Things to consider:
 //https://localhost:3000/timepunch-api/timecards?startDate=05%2F02%2F2013&endDate=05%2F03%2F2013&employeeId=1234567
 router.get('/', async (req, res, next) => {
   // For days that _do_ have timepunch data, we should provide each detail record for that day in an array called `items`
-  console.log("LOG INFO: Time cards api")
+  console.log("Time cards api: Get Request")
 
   const employeeId = req.query.employeeId
   const startDate = req.query.startDate
   const endDate = req.query.endDate
 
+  console.log(`Employee ID: ${employeeId}, Start Date: ${startDate}, End Date: ${endDate}`);
+
+  //is there a date range limit?
   if(!employeeId || !startDate || !endDate){
-    console.log("error");
-    // res.status(500).send("invalid parameters");
+    res.status(500).send("invalid parameters");
   }
 
   const timecards = await timeCardService.fetchByEmployeedId(employeeId, startDate, endDate);
