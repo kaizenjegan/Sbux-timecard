@@ -104,7 +104,7 @@ export default class TimeCardService {
 
         return total;
     }
-
+    //mocking time duration
     calculateDuration() {  
         const min = 25;
         const max = 600;

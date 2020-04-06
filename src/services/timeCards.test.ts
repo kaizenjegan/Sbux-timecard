@@ -6,10 +6,17 @@ const timeCardService = new TimeCardService();
 
 
 describe('Time Cards Service', () => {
-	it('should fetch two ', async () => {
+	it('should fetch three days worth of punch card data ', async () => {
 		const timeCardResponse = await new TimeCardService().fetchByEmployeedId("9999999", "04/30/2019", "05/02/2019");
 		expect(timeCardResponse.items.length).to.be.equal(3);
 	})
+
+	it("should only fetch the right employee", async () => {
+		const timeCardResponse = await new TimeCardService().fetchByEmployeedId("1234567", "05/02/2013", "05/08/2013");
+		expect(timeCardResponse.items[3].items[0].EMP_ID).to.be.equal("1234567");
+	})
+
+	//todo negative tests
 
 	it('should generate grand total ', ()=>{
 		//got snap shot
